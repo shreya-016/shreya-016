@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Awasthi</h1>
 <h3 align="center">A Tech wizard with specialized focus on backend development.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-016&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-016" /> </p>
 
