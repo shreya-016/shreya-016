@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shreya Awasthi</h1>
-<h3 align="center">A Tech wizard with specialized focus on backend development.</h3>
+<h3 align="center">Writing smart contracts and praying that they don't get hacked. Welcome to my Web3 journey.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya-016&label=Profile%20views&color=0e75b6&style=flat" alt="shreya-016" /> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **Solidity**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Golang**
+- 🌱 I’m currently learning **Rust, Ethereum, Solana**
 
 - 📝 I regularly write articles on [https://medium.com/@shreya9225](https://medium.com/@shreya9225)
 
-- 💬 Ask me about **Python, System Design and Object Oriented Programming**
+- 💬 Ask me about **Ethereum, Smart contracts**
 
 - 📫 How to reach me **shreya9225@gmail.com**
 
