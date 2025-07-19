@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@shreya9225](https://medium.com/@shreya9225)
 
-- 💬 Ask me about **Ethereum, Smart contracts**
+- 💬 Ask me about **Defi, Solana Blockchain**
 
 - 📫 How to reach me **shreya9225@gmail.com**
 
